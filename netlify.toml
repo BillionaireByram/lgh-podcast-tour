@@ -1,0 +1,74 @@
+[build]
+  publish = "."
+
+[build.environment]
+  NODE_VERSION = "18"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+[[headers]]
+  for = "*.html"
+  [headers.values]
+    Cache-Control = "public, max-age=300"
+
+[[headers]]
+  for = "*.css"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000"
+
+[[headers]]
+  for = "*.js"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000"
+
+[[redirects]]
+  from = "/boston"
+  to = "/lgh-podcast-tour-boston.html"
+  status = 200
+
+[[redirects]]
+  from = "/newyork"
+  to = "/lgh-podcast-tour-new-york.html"
+  status = 200
+
+[[redirects]]
+  from = "/toronto"
+  to = "/lgh-podcast-tour-toronto.html"
+  status = 200
+
+[[redirects]]
+  from = "/scottsdale"
+  to = "/lgh-podcast-tour-scottsdale.html"
+  status = 200
+
+[[redirects]]
+  from = "/losangeles"
+  to = "/lgh-podcast-tour-los-angeles.html"
+  status = 200
+
+[[redirects]]
+  from = "/dallas"
+  to = "/lgh-podcast-tour-dallas.html"
+  status = 200
+
+[[redirects]]
+  from = "/austin"
+  to = "/lgh-podcast-tour-austin.html"
+  status = 200
+
+# SEO-friendly redirects
+[[redirects]]
+  from = "/new-york"
+  to = "/lgh-podcast-tour-new-york.html"
+  status = 200
+
+[[redirects]]
+  from = "/los-angeles"
+  to = "/lgh-podcast-tour-los-angeles.html"
+  status = 200
