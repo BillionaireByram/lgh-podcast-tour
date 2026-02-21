@@ -1,0 +1,60 @@
+{
+  "brand": "Let's Geaux Hustle",
+  "founder": "Trevor Calais - Veteran, Entrepreneur, One of you",
+  "credibility": "$10M+ Funded, 5,000+ Veterans Served",
+  "generated": 7,
+  "pages": [
+    {
+      "city": "Boston",
+      "fileName": "lgh-podcast-tour-boston.html",
+      "path": "/home/ava/.openclaw/workspace/lgh-tour-pages/lgh-podcast-tour-boston.html",
+      "deployUrl": "https://lgh-podcast-tour.netlify.app/lgh-podcast-tour-boston.html",
+      "branding": "Let's Geaux Hustle Official"
+    },
+    {
+      "city": "New York",
+      "fileName": "lgh-podcast-tour-new-york.html",
+      "path": "/home/ava/.openclaw/workspace/lgh-tour-pages/lgh-podcast-tour-new-york.html",
+      "deployUrl": "https://lgh-podcast-tour.netlify.app/lgh-podcast-tour-new-york.html",
+      "branding": "Let's Geaux Hustle Official"
+    },
+    {
+      "city": "Toronto",
+      "fileName": "lgh-podcast-tour-toronto.html",
+      "path": "/home/ava/.openclaw/workspace/lgh-tour-pages/lgh-podcast-tour-toronto.html",
+      "deployUrl": "https://lgh-podcast-tour.netlify.app/lgh-podcast-tour-toronto.html",
+      "branding": "Let's Geaux Hustle Official"
+    },
+    {
+      "city": "Scottsdale",
+      "fileName": "lgh-podcast-tour-scottsdale.html",
+      "path": "/home/ava/.openclaw/workspace/lgh-tour-pages/lgh-podcast-tour-scottsdale.html",
+      "deployUrl": "https://lgh-podcast-tour.netlify.app/lgh-podcast-tour-scottsdale.html",
+      "branding": "Let's Geaux Hustle Official"
+    },
+    {
+      "city": "Los Angeles",
+      "fileName": "lgh-podcast-tour-los-angeles.html",
+      "path": "/home/ava/.openclaw/workspace/lgh-tour-pages/lgh-podcast-tour-los-angeles.html",
+      "deployUrl": "https://lgh-podcast-tour.netlify.app/lgh-podcast-tour-los-angeles.html",
+      "branding": "Let's Geaux Hustle Official"
+    },
+    {
+      "city": "Dallas",
+      "fileName": "lgh-podcast-tour-dallas.html",
+      "path": "/home/ava/.openclaw/workspace/lgh-tour-pages/lgh-podcast-tour-dallas.html",
+      "deployUrl": "https://lgh-podcast-tour.netlify.app/lgh-podcast-tour-dallas.html",
+      "branding": "Let's Geaux Hustle Official"
+    },
+    {
+      "city": "Austin",
+      "fileName": "lgh-podcast-tour-austin.html",
+      "path": "/home/ava/.openclaw/workspace/lgh-tour-pages/lgh-podcast-tour-austin.html",
+      "deployUrl": "https://lgh-podcast-tour.netlify.app/lgh-podcast-tour-austin.html",
+      "branding": "Let's Geaux Hustle Official"
+    }
+  ],
+  "deploymentDate": "2026-02-21T20:36:11.449Z",
+  "tourStops": 7,
+  "brandingUpdate": "Aligned with letsgeauxhustleworkshop.netlify.app"
+}

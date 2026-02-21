@@ -1,0 +1,324 @@
+[
+  {
+    "city": "Boston",
+    "state": "MA",
+    "date": "March 21st",
+    "landingPage": "lgh-podcast-tour-boston.html",
+    "targeting": {
+      "location": "Boston, MA",
+      "radius": "50 miles",
+      "interests": [
+        "Podcasting",
+        "Entrepreneurship",
+        "Military Veterans",
+        "Veteran Business Owners",
+        "Digital Marketing",
+        "Online Business",
+        "Content Creation",
+        "Personal Branding",
+        "Let's Geaux Hustle",
+        "Military Transition"
+      ],
+      "demographics": {
+        "age": "25-55",
+        "income": "Top 30%",
+        "education": "Some college+",
+        "military": "Veterans and military families"
+      },
+      "behaviors": [
+        "Military veterans",
+        "Small business owners",
+        "Entrepreneurs",
+        "Frequent podcast listeners"
+      ]
+    },
+    "adCopy": {
+      "headline": "Boston Veterans: Podcast to Cash Workshop",
+      "description": "Trevor from Let's Geaux Hustle reveals his $10M system LIVE in Boston March 21st",
+      "cta": "Get Boston Tickets - Veterans Only Event",
+      "military_angle": "From service to success - the veteran entrepreneur's podcast blueprint"
+    },
+    "customization": {
+      "urgencyText": "In the city of innovation and education",
+      "heroAccent": "Revolutionary ideas meet revolutionary execution",
+      "localRef": "Historic Boston venue",
+      "militaryConnection": "Where American independence was born - now build yours"
+    }
+  },
+  {
+    "city": "New York",
+    "state": "NY",
+    "date": "April 18th",
+    "landingPage": "lgh-podcast-tour-new york.html",
+    "targeting": {
+      "location": "New York, NY",
+      "radius": "50 miles",
+      "interests": [
+        "Podcasting",
+        "Entrepreneurship",
+        "Military Veterans",
+        "Veteran Business Owners",
+        "Digital Marketing",
+        "Online Business",
+        "Content Creation",
+        "Personal Branding",
+        "Let's Geaux Hustle",
+        "Military Transition"
+      ],
+      "demographics": {
+        "age": "25-55",
+        "income": "Top 30%",
+        "education": "Some college+",
+        "military": "Veterans and military families"
+      },
+      "behaviors": [
+        "Military veterans",
+        "Small business owners",
+        "Entrepreneurs",
+        "Frequent podcast listeners"
+      ]
+    },
+    "adCopy": {
+      "headline": "New York Veterans: Podcast to Cash Workshop",
+      "description": "Trevor from Let's Geaux Hustle reveals his $10M system LIVE in New York April 18th",
+      "cta": "Get New York Tickets - Veterans Only Event",
+      "military_angle": "From service to success - the veteran entrepreneur's podcast blueprint"
+    },
+    "customization": {
+      "urgencyText": "In the city that never sleeps, opportunities move fast",
+      "heroAccent": "Take that NYC hustle from the streets to the podcast booth",
+      "localRef": "Manhattan venue",
+      "militaryConnection": "Where Wall Street meets warrior mindset"
+    }
+  },
+  {
+    "city": "Toronto",
+    "state": "ON",
+    "date": "May 1st-2nd",
+    "landingPage": "lgh-podcast-tour-toronto.html",
+    "targeting": {
+      "location": "Toronto, ON",
+      "radius": "50 miles",
+      "interests": [
+        "Podcasting",
+        "Entrepreneurship",
+        "Military Veterans",
+        "Veteran Business Owners",
+        "Digital Marketing",
+        "Online Business",
+        "Content Creation",
+        "Personal Branding",
+        "Let's Geaux Hustle",
+        "Military Transition"
+      ],
+      "demographics": {
+        "age": "25-55",
+        "income": "Top 30%",
+        "education": "Some college+",
+        "military": "Veterans and military families"
+      },
+      "behaviors": [
+        "Military veterans",
+        "Small business owners",
+        "Entrepreneurs",
+        "Frequent podcast listeners"
+      ]
+    },
+    "adCopy": {
+      "headline": "Toronto Veterans: Podcast to Cash Workshop",
+      "description": "Trevor from Let's Geaux Hustle reveals his $10M system LIVE in Toronto May 1st-2nd",
+      "cta": "Get Toronto Tickets - Veterans Only Event",
+      "military_angle": "From service to success - the veteran entrepreneur's podcast blueprint"
+    },
+    "customization": {
+      "urgencyText": "The 6ix is ready for your success story",
+      "heroAccent": "International opportunities with brotherhood execution",
+      "localRef": "Downtown Toronto venue",
+      "militaryConnection": "Cross-border success, veteran values"
+    }
+  },
+  {
+    "city": "Scottsdale",
+    "state": "AZ",
+    "date": "May 22nd-23rd",
+    "landingPage": "lgh-podcast-tour-scottsdale.html",
+    "targeting": {
+      "location": "Scottsdale, AZ",
+      "radius": "50 miles",
+      "interests": [
+        "Podcasting",
+        "Entrepreneurship",
+        "Military Veterans",
+        "Veteran Business Owners",
+        "Digital Marketing",
+        "Online Business",
+        "Content Creation",
+        "Personal Branding",
+        "Let's Geaux Hustle",
+        "Military Transition"
+      ],
+      "demographics": {
+        "age": "25-55",
+        "income": "Top 30%",
+        "education": "Some college+",
+        "military": "Veterans and military families"
+      },
+      "behaviors": [
+        "Military veterans",
+        "Small business owners",
+        "Entrepreneurs",
+        "Frequent podcast listeners"
+      ]
+    },
+    "adCopy": {
+      "headline": "Scottsdale Veterans: Podcast to Cash Workshop",
+      "description": "Trevor from Let's Geaux Hustle reveals his $10M system LIVE in Scottsdale May 22nd-23rd",
+      "cta": "Get Scottsdale Tickets - Veterans Only Event",
+      "military_angle": "From service to success - the veteran entrepreneur's podcast blueprint"
+    },
+    "customization": {
+      "urgencyText": "Desert luxury meets podcast mastery",
+      "heroAccent": "Premium results in premium surroundings",
+      "localRef": "Scottsdale luxury venue",
+      "militaryConnection": "Where veterans level up to luxury lifestyle"
+    }
+  },
+  {
+    "city": "Los Angeles",
+    "state": "CA",
+    "date": "June 19th-20th",
+    "landingPage": "lgh-podcast-tour-los angeles.html",
+    "targeting": {
+      "location": "Los Angeles, CA",
+      "radius": "50 miles",
+      "interests": [
+        "Podcasting",
+        "Entrepreneurship",
+        "Military Veterans",
+        "Veteran Business Owners",
+        "Digital Marketing",
+        "Online Business",
+        "Content Creation",
+        "Personal Branding",
+        "Let's Geaux Hustle",
+        "Military Transition"
+      ],
+      "demographics": {
+        "age": "25-55",
+        "income": "Top 30%",
+        "education": "Some college+",
+        "military": "Veterans and military families"
+      },
+      "behaviors": [
+        "Military veterans",
+        "Small business owners",
+        "Entrepreneurs",
+        "Frequent podcast listeners"
+      ]
+    },
+    "adCopy": {
+      "headline": "Los Angeles Veterans: Podcast to Cash Workshop",
+      "description": "Trevor from Let's Geaux Hustle reveals his $10M system LIVE in Los Angeles June 19th-20th",
+      "cta": "Get Los Angeles Tickets - Veterans Only Event",
+      "military_angle": "From service to success - the veteran entrepreneur's podcast blueprint"
+    },
+    "customization": {
+      "urgencyText": "In the entertainment capital, content is king",
+      "heroAccent": "Turn your Hollywood dreams into podcast empire reality",
+      "localRef": "Premium LA venue",
+      "militaryConnection": "Where veterans build media empires"
+    }
+  },
+  {
+    "city": "Dallas",
+    "state": "TX",
+    "date": "Nov 13th-14th",
+    "landingPage": "lgh-podcast-tour-dallas.html",
+    "targeting": {
+      "location": "Dallas, TX",
+      "radius": "50 miles",
+      "interests": [
+        "Podcasting",
+        "Entrepreneurship",
+        "Military Veterans",
+        "Veteran Business Owners",
+        "Digital Marketing",
+        "Online Business",
+        "Content Creation",
+        "Personal Branding",
+        "Let's Geaux Hustle",
+        "Military Transition"
+      ],
+      "demographics": {
+        "age": "25-55",
+        "income": "Top 30%",
+        "education": "Some college+",
+        "military": "Veterans and military families"
+      },
+      "behaviors": [
+        "Military veterans",
+        "Small business owners",
+        "Entrepreneurs",
+        "Frequent podcast listeners"
+      ]
+    },
+    "adCopy": {
+      "headline": "Dallas Veterans: Podcast to Cash Workshop",
+      "description": "Trevor from Let's Geaux Hustle reveals his $10M system LIVE in Dallas Nov 13th-14th",
+      "cta": "Get Dallas Tickets - Veterans Only Event",
+      "military_angle": "From service to success - the veteran entrepreneur's podcast blueprint"
+    },
+    "customization": {
+      "urgencyText": "Everything is bigger in Texas, including opportunities",
+      "heroAccent": "Texas-sized results from veteran-tested strategies",
+      "localRef": "Premium Dallas venue",
+      "militaryConnection": "Big D, bigger dreams, biggest results"
+    }
+  },
+  {
+    "city": "Austin",
+    "state": "TX",
+    "date": "Dec 10th-11th",
+    "landingPage": "lgh-podcast-tour-austin.html",
+    "targeting": {
+      "location": "Austin, TX",
+      "radius": "50 miles",
+      "interests": [
+        "Podcasting",
+        "Entrepreneurship",
+        "Military Veterans",
+        "Veteran Business Owners",
+        "Digital Marketing",
+        "Online Business",
+        "Content Creation",
+        "Personal Branding",
+        "Let's Geaux Hustle",
+        "Military Transition"
+      ],
+      "demographics": {
+        "age": "25-55",
+        "income": "Top 30%",
+        "education": "Some college+",
+        "military": "Veterans and military families"
+      },
+      "behaviors": [
+        "Military veterans",
+        "Small business owners",
+        "Entrepreneurs",
+        "Frequent podcast listeners"
+      ]
+    },
+    "adCopy": {
+      "headline": "Austin Veterans: Podcast to Cash Workshop",
+      "description": "Trevor from Let's Geaux Hustle reveals his $10M system LIVE in Austin Dec 10th-11th",
+      "cta": "Get Austin Tickets - Veterans Only Event",
+      "military_angle": "From service to success - the veteran entrepreneur's podcast blueprint"
+    },
+    "customization": {
+      "urgencyText": "Keep Austin weird, but keep your profits real",
+      "heroAccent": "Music City meets podcast mastery - veteran style",
+      "localRef": "Live music capital venue",
+      "militaryConnection": "Where creativity and discipline create wealth"
+    }
+  }
+]
